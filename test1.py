@@ -12,3 +12,10 @@ def return_text_value():
 
 text = return_text_value()
 print(text)
+def return_number_value():
+    num1 = 10
+    num2 = 5
+    return num1 + num2
+
+number = return_number_value()
+print(number)
