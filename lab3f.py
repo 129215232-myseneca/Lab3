@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 '''Lab 3 Inv 3 script for modifying lists'''
-# Author ID: vsingh227
-
+# Author ID: asbegh
 # Define the list
 my_list = [1, 2, 3, 4, 5]
 
