@@ -101,11 +101,11 @@ Ran 48 tests in 0.300s
 OK
 OPS445 Lab Report - System Information for running ./CheckLab3.py
 =================================================================
-    User login name: vsingh227
-    Linux system name: vsingh227-VirtualBox
+    User login name: asbegh
+    Linux system name: asbegh-VirtualBox
     Python executable: /usr/bin/python3
     Python version: 3123
     OS Platform: linux
-    Working Directory: /home/vsingh227/ops445/lab3/Lab3
-    Start at: Sun Sep 29 18:48:48 2024
+    Working Directory: /home/asbegh/ops445/lab3/Lab3
+    Start at: Wed May 28 18:48:48 2025
 =================================================================
