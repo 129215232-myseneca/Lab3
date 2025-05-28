@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''Lab 3 Part 2 script for launching system commands'''
-# Author ID: vsingh227
+# Author ID: asbegh
 
 import subprocess
 
