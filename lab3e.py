@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''Lab 3 Inv 3 script for working with lists'''
-# Author ID: vsingh227
+# Author ID: asbegh
 
 my_list = [100, 200, 300, 'six hundred']
 
